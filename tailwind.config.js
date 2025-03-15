@@ -1,7 +1,7 @@
 module.exports = {
-    darkMode: false, // Disable dark mode
-    theme: {
-      extend: {},
+    daisyui: {
+      themes: ['light'], // Only use light theme, no dark theme
+      darkTheme: false,   // Disable DaisyUI dark theme
     },
-    plugins: [],
+    darkMode: false,      // Ensure Tailwind doesn't apply dark mode automatically
   }
