@@ -1,7 +1,7 @@
 # Biker Zone
 
 Biker Zone is a responsive web project designed to showcase bikes, news, and customer testimonials. The project is built using **HTML**, **CSS**, **Tailwind CSS**, and **Daisy UI** to ensure a modern and visually appealing design.
-link: https://mehedihasan101101.github.io/Biker-Zone-Project-12/
+##link: https://mehedihasan101101.github.io/Biker-Zone-Project-12/
 ## Features
 
 - **Responsive Design**: Fully responsive layout for mobile, tablet, and desktop devices.
